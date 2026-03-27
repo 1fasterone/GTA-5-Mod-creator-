@@ -1,0 +1,5 @@
+{
+  "name": "Brainstorm to Mod: GTA V Scripting Tool",
+  "description": "A specialized AI tool for generating and auditing GTA V C# scripts using the ScriptHookVDotNet v3.6.0 API.",
+  "requestFramePermissions": []
+}
